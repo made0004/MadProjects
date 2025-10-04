@@ -89,6 +89,14 @@ nav button {
 main {
   padding-bottom: 4rem;
 }
+.main__pic { 
+width: 350px;
+height: auto;
+}
+.about__list {
+
+  
+}
 .weather-card {
   background-color: var(--blue);
   color: white;
